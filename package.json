@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"description": "A project that does something awesome",
 	"author": {
 		"name": "Zar Ni Myo",
 		"email": "herorelative@gmail.com",
