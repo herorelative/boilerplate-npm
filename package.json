@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"description": "A project that does something awesome",
 	"keywords": [ "freecodecamp", "backend", "nodejs", "express" ],
+	"license": "MIT",
 	"author": {
 		"name": "Zar Ni Myo",
 		"email": "herorelative@gmail.com",
