@@ -1,7 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"description": "A project that does something awesome",
-	"keywords": [ "descriptive", "related", "words" ],
+	"keywords": [ "freecodecamp", "backend", "nodejs", "express" ],
 	"author": {
 		"name": "Zar Ni Myo",
 		"email": "herorelative@gmail.com",
